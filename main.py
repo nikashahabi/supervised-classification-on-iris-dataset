@@ -9,7 +9,7 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn import svm
 from sklearn import metrics
 from sklearn.tree import DecisionTreeClassifier
-import keras
+# import keras
 from sklearn.preprocessing import StandardScaler, LabelBinarizer
 
 
